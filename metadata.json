@@ -1,0 +1,6 @@
+{
+  "name": "Tarjama AI",
+  "description": "Application professionnelle de traduction audio et vocale en temps réel hors ligne (Offline Real-time AI Voice Translator).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
